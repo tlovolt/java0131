@@ -1,0 +1,4 @@
+oracle.jdbc.driver.OracleDriver
+jdbc:oracle:thin:@211.183.7.61:1521:xe
+user00
+user00
